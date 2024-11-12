@@ -93,7 +93,7 @@ del %userprofile%\Documents\*.docx
 echo Backup and deletion completed successfully!
 ```
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/24ba752f-96b3-4dae-a1ad-a466f1113bd0)
 
 
 # RESULT:
